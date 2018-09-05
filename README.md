@@ -27,6 +27,9 @@ Sample user password:anusha
 
 Pagination and filters have been implemented.
 
+Command to run the project
+> npm start
+
 Here is the link for the execution of the project:https://youtu.be/RmerB2TNwE4
 
 ```

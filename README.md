@@ -1,6 +1,18 @@
 # myreactproj
-
+```
+Technologies used
+Front end:REACTJS
+Backend:PHP,MYSQL,SQL.
+Database:phpMyadmin
+I have installed the xampp server and used it for the execution of my project.
+I have used npm to run the react part.
+Used PHP to implement the CRUD operations to the database.
+UI makes  rest api calls using "axios" framework to the php files to perfrom the CRUD operations on the database.
+I chose php as the backend resource as i have had programming experience with the language and i am comforatable in coding with it.
+```
+```
 This application consists of two users
+```
 ```
 1.user
 2.admin
